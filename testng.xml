@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="resources.Listeners"/>
+    </listeners>
+
+    <test verbose="2" preserve-order="true" name="D:/FebysAutomation">
+        <classes>
+            <class name="registration.LoginPageTest">
+                <methods>
+                    <include name="login"/>
+                </methods>
+            </class>
+
+            <class name="registration.SignUpPageTest"/>
+
+        </classes>
+    </test>
+</suite>
