@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="25035" started-at="2022-07-15T17:57:36 PKT" finished-at="2022-07-15T17:58:01 PKT">
+    <groups>
+    </groups>
+    <test name="D:/FebysAutomation" duration-ms="25035" started-at="2022-07-15T17:57:36 PKT" finished-at="2022-07-15T17:58:01 PKT">
+      <class name="registration.SignUpPageTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:registration.SignUpPageTest@52feb982]" name="initialize" is-config="true" duration-ms="4585" started-at="2022-07-15T17:57:36 PKT" finished-at="2022-07-15T17:57:41 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="sign_up()[pri:1, instance:registration.SignUpPageTest@52feb982]" name="sign_up" duration-ms="20416" started-at="2022-07-15T17:57:41 PKT" finished-at="2022-07-15T17:58:01 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign_up -->
+      </class> <!-- registration.SignUpPageTest -->
+    </test> <!-- D:/FebysAutomation -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

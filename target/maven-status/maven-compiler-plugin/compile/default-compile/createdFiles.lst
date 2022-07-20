@@ -1,0 +1,6 @@
+objectrepository\SignUpPage.class
+objectrepository\HomePage.class
+resources\CommonMethods.class
+resources\BaseTest.class
+resources\Listeners.class
+objectrepository\LoginPage.class
